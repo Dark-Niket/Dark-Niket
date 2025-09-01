@@ -33,6 +33,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:basuniket@gmail.com)
 
 ---
+### 🎋 Activity!
+
+</td><td valign="top" width="40%">
+<a href="https://open.spotify.com/user/314iq7ga4ibn7zlrt6wvsfxauuum"><img src="https://spotify-recently-played-readme.vercel.app/api?user=314iq7ga4ibn7zlrt6wvsfxauuum" width="380px"></a>
+
+---
 
 <details>
   <summary>📊 GitHub Stats</summary>
