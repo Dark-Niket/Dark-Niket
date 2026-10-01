@@ -40,7 +40,7 @@
 
 <div align="center">
   <p><i>🎧 Currently vibing with some tunes... 🎧</i></p>
-  <a href="https://open.spotify.com/user/314iq7ga4ibn7zlrt6wvsfxauuum">
+  <a href="https://open.spotify.com/user/314iq7ga4ibn7zlrt6wvsfxauuum" target="_blank" rel="noopener noreferrer">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=314iq7ga4ibn7zlrt6wvsfxauuum" width="500px" alt="Recently Played on Spotify">
   </a>
   <p><sub>🎵 <i>Music is my escape when code breaks my brain.</i> 🎵</sub></p>
